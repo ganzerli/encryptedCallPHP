@@ -22,10 +22,3 @@ if(isset($_POST['pass'],$_POST['url'])){
 <br>
 <div id='demo'></div>
 
-<script>
-alert("js ok");
-
-
-</script>
-
-
